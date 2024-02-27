@@ -1,6 +1,6 @@
 ### Overview of the Vigenère Cipher:
 
-The Vigenère Cipher, also known as the Polyalphabetic Cipher, is a type of encryption where each letter of the plaintext is replaced by another letter from the same alphabet, depending on a key. The key is a word or a phrase that determines how the letters are shifted in the alphabet. The Vigenère Cipher is a generalization of the Caesar Cipher, which uses a single letter as the key. The Vigenère Cipher is more secure than the Caesar Cipher, because it uses multiple keys and avoids frequency analysis.
+The Vigenère Cipher, also known as the Polyalphabetic Cipher, is a type of encryption where each letter of the plaintext is replaced by another letter from the same alphabet, depending on a key. The key is a word or phrase that determines how the letters are shifted in the alphabet. The Vigenère Cipher is a generalization of the Caesar Cipher, which uses a single letter as the key. The Vigenère Cipher is more secure than the Caesar Cipher because it uses multiple keys and avoids frequency analysis.
 
 ### How the Vigenère Cipher Works:
 
