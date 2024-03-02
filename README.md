@@ -21,13 +21,13 @@ OTP is an encryption technique where a unique random key is used only once to en
 5. [PRF & PRG (Pseudorandom Function & Pseudorandom Generator)](https://github.com/31Sanskrati/Cryptography_Algorithms/tree/main/PRF%20%26%20PRG)
 A PRF is a function that generates seemingly random values from an input, while a PRG is an algorithm for generating a sequence of numbers that approximates the properties of random numbers.
 
-6. [Shift Cipher](https://github.com/31Sanskrati/Cryptography_Algorithms/blob/main/SHIFT_CIPHER.py)
+6. [Shift Cipher](https://github.com/31Sanskrati/Cryptography_Algorithms/tree/main/SHIFT_CIPHER)
 Shift Cipher, also known as Caesar Cipher, is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
-7. [Substitution Cipher](https://github.com/31Sanskrati/Cryptography_Algorithms/blob/main/SUBSTITUTION_CIPHER.py)
+7. [Substitution Cipher](https://github.com/31Sanskrati/Cryptography_Algorithms/tree/main/SUBSTITUTION_CIPHER)
 Substitution Cipher is a method of encryption where each letter in the plaintext is replaced with another letter according to a fixed system.
 
-8. [Vigenère Cipher](https://github.com/31Sanskrati/Cryptography_Algorithms/blob/main/VIGINERE_CIPHER.py)
+8. [Vigenère Cipher](https://github.com/31Sanskrati/Cryptography_Algorithms/tree/main/VIGINERE_CIPHER)
 Vigenère Cipher is a method of encrypting alphabetic text by using a simple form of polyalphabetic substitution.
 
 ## Implementation
