@@ -45,7 +45,8 @@ Contributions to this repository are welcome! If you'd like to contribute, pleas
 
 ## Resources
 Here are some additional resources for learning more about cryptography:
-`to be added`
+
+- [Cyber Chef](https://gchq.github.io/CyberChef/)
 
 ## Tech Stack
 - Python
